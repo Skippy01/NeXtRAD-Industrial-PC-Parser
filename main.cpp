@@ -1,13 +1,4 @@
-/*
-	Once completed, this program will act as a backend server
-	with the following aims
 
-	1) communicate with a user logged on a terminal
-	   using smaller "command" programs.
-	2) communicate with a user using TCP
-	3) send and receive data from the Spartan 6
-
-*/
 // ini libraries
 #define INI_INLINE_COMMENT_PREFIXES "%" // Change this to change what is a comment
 #include "inih/cpp/INIReader.cpp"
